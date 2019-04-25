@@ -1,4 +1,7 @@
 # AP-Research-2019
+
+(Windows ver.)
+
 This video game was created for my 2019 AP Research project on the ethics of Unity as a method of online data collection. In it, the player takes on the role of the newly instated supreme monarch of the world and is asked to make decisions on political issues. This game was developed as an example of how researchers could use video games to research public opinions on hot button topics.
 
 "Absolutism" was created for my 2019 AP Research project. In it, you, the player, take on the role of the newly instated supreme monarch of the world and are asked to make decisions on political issues. "Absolutism" was developed as an example of how researchers could use video games to research public opinions on hot button topics. 
